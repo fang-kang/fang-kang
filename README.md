@@ -14,3 +14,4 @@
 
 - ⚡ 个人博客 [fk的个人博客](http://fang-kang.gitee.io/blog)
 
+![fang-kang's github stats](https://github-readme-stats.vercel.app/api?username=fang-kang&show_icons=true&theme=radical)
