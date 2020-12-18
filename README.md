@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**fang-kang/fang-kang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 前端�发程序员�只�7后，喜欢钻研�些的生�比较好或�比较有发展前景的技�
 
-Here are some ideas to get you started:
+- 🌱 �术栈是vue、react、node、uni-app、小程序…�
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤔 独立�发项目的经验占大多数。开发习惯严谨，注重可复用�可扩展、健壮��如果实现一个�辑的方法有100种，我一定会去研究，选择我认为最好的�种方法�
+
+- 📫 联系方式
+
+  | 邮箱             | qq         | 其他 |
+  | ---------------- | ---------- | ---: |
+  | 179398864@qq.com | 1793980864 |  ... |
+
+- 个人博客 [fk的个人博客](http://fang-kang.gitee.io/blog)
+
