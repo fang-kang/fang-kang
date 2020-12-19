@@ -14,4 +14,4 @@
 
 - ⚡ 个人博客 [fk的个人博客](http://fang-kang.gitee.io/blog)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fang-kang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
