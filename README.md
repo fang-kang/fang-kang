@@ -1,4 +1,4 @@
-### Hi, I'm Fangkang 👋
+### Hi, I'm fangkang 👋
 
 - 🔭 I’m currently working in Jinan China.
 - 🌱 I’m currently using JS & TS, React, Vue。
