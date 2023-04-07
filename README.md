@@ -8,7 +8,7 @@
 	| ---------------- | ---------- | ---: |
 	| 179398864@qq.com | 1793980864 |  ... |
 
-- ⚡ 个人博客 [fk的个人博客](http://fang-kang.gitee.io/blog)
+- ⚡ 个人博客 [fk的个人博客](http://fang-kang.github.io/blog)
 - 📝 个人笔记 [fk的个人笔记](http://fang-kang.github.io/note)
 
 ![fang-kang's github stats](https://github-readme-stats.vercel.app/api?username=fang-kang&show_icons=true)
